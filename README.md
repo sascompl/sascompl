@@ -1,16 +1,60 @@
-## Hi there 👋
+# SASCOM
 
-<!--
-**sascompl/sascompl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sales Systems Architecture  
+Headless Commerce | Integrations | B2B Platforms
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I design and build modern sales systems and e-commerce platforms.
+
+My focus is helping companies move beyond the limitations of
+monolithic platforms like WooCommerce and implement scalable
+sales architectures.
+
+---
+
+## What I work on
+
+• headless e-commerce systems  
+• B2B ordering platforms  
+• integrations with ERP and CRM  
+• high-performance storefronts  
+• automation of sales processes  
+
+---
+
+## Tech stack
+
+Frontend
+- Next.js
+- Astro
+- React
+- Tailwind
+
+Backend
+- Node.js
+- REST APIs
+- integrations
+
+Commerce
+- Medusa.js
+- headless commerce
+
+Infrastructure
+- Git
+- Linux
+- Vercel / VPS
+
+---
+
+## Focus
+
+Designing systems that support real business processes:
+pricing, logistics, integrations and B2B workflows.
+
+---
+
+Website  
+https://sascom.pl
