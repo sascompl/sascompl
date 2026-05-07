@@ -1,7 +1,8 @@
 # SASCOM — Bartosz Sudół
 
-Sales Systems Architecture  
-Modern e-commerce systems, integrations and custom sales platforms.
+Projektuję i wdrażam dedykowane rozwiązania webowe dla firm.
+
+Łączę analizę potrzeb, UX/UI, architekturę informacji i wdrożenie techniczne, przekładając procesy biznesowe na działające systemy.
 
 ---
 
@@ -9,81 +10,77 @@ Modern e-commerce systems, integrations and custom sales platforms.
 
 I'm Bartosz Sudół, founder of SASCOM.
 
-I design and build modern sales systems and e-commerce platforms,
-focusing on scalable architectures and integrations with business systems.
+I work on custom web projects for business: websites, platforms, e-commerce systems, B2B portals and integrations.
 
-My work often involves helping companies move beyond the limitations
-of monolithic platforms and implement systems tailored to their real
-sales and operational processes.
+My role usually combines business analysis, UX/UI, technical planning and implementation. I focus on building practical digital systems tailored to real operational processes, not just generic websites or template-based solutions.
 
 ---
 
 ## What I work on
 
-Typical areas I focus on:
+Typical areas:
 
-• designing e-commerce and sales system architecture  
-• building headless storefronts  
-• creating B2B ordering platforms  
-• integrating e-commerce with ERP / CRM systems  
-• automating sales and operational processes  
-
-Many projects involve replacing or extending legacy systems and
-adapting technology to real business workflows.
+- custom websites and web platforms
+- Astro-based websites
+- headless CMS implementations
+- headless and custom e-commerce
+- B2B platforms and customer portals
+- integrations with CRM, ERP and external systems
+- UX/UI for business processes
+- technical implementation supported by AI-assisted workflows
 
 ---
 
-## Technologies I work with
+## Technologies and tools
 
-Frontend
+Frontend / Web
 
-- Next.js
 - Astro
+- Next.js
 - React
-- Tailwind
+- Tailwind CSS
 
-Backend / APIs
+CMS / Commerce
 
-- Node.js
-- REST APIs
-- system integrations
-
-Commerce architecture
-
-- headless commerce
-- composable commerce
+- headless CMS
+- Medusa
+- WooCommerce
 - custom sales systems
 
-Deployment
+Integrations / Deployment
 
-- Cloudflare
+- REST APIs
+- webhooks
 - Vercel
+- Cloudflare
 - Linux VPS
+
+Design / DTP
+
+- Adobe Illustrator
+- Adobe InDesign
+- Figma
+- branding and print materials
 
 ---
 
 ## Background
 
-I’m a self-taught developer who started working with web technologies around 2018,
-initially building websites and e-commerce solutions using WordPress.
+I started by building websites and e-commerce projects, mainly around WordPress and WooCommerce. Over time, I moved toward more custom, headless and business-oriented web systems.
 
-Through working on real projects I became increasingly interested in
-the architectural limitations of monolithic platforms and the challenges
-they create as businesses grow.
-
-This led me to focus on designing more flexible sales systems based on
-headless and composable architectures, as well as integrations between
-e-commerce and other business systems.
+I’m not a classic software engineer focused only on writing code manually. I work as a technical builder who combines business understanding, UX/UI, implementation and modern AI-assisted development workflows to deliver working digital products.
 
 ---
 
 ## Areas of interest
 
-- modern commerce architecture
-- replacing legacy e-commerce systems
-- B2B sales platforms
-- integrations between business systems
-- automation of operational workflows
+- custom web platforms
+- headless websites and commerce
+- business process automation
+- B2B systems
+- UX/UI for operational workflows
+- AI-assisted development
+- digital product implementation
 
 ---
 
